@@ -1,0 +1,7 @@
+Go to the location file in cmd
+git add "file name"
+git commit -m"file name"
+git push
+
+git commit -A
+for select all files
